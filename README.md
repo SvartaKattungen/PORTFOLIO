@@ -1,4 +1,4 @@
-# portfolio_2
+# Dev-Portfolio_2
 <html>
   <h2> All from scratch :) <h2>
     <h3>Experimenting with 'pure' HTML to lay a foundation for my Dev Portfolio.</h3>
